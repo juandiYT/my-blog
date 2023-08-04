@@ -1,0 +1,185 @@
+body {
+    background: linear-gradient(red, yellow);
+    text-align: center;
+  background-repeat:no-repeat;
+    }
+
+    .profile {
+        border-radius: 50%;
+        }
+
+   .menú{
+                            list-style: none;
+                            position: absolute;
+                            top: 10px;
+                            right: 30px;
+                            z-index: 10;
+                            cursor: pointer;
+                            }
+
+                           .enlaces{
+                            float: left;
+                            padding-top: 5px;
+                            padding-left: 9px;
+                            padding-right: 9px;
+                            padding-bottom: 5px;
+                            font-family: fantasy;
+                            font-size: 20px;
+                            }
+
+
+                           #nombre {
+                            font-size: 50px;
+                            font-family: 'Open Sans', cursive;
+                        
+
+                            }
+
+
+
+                            #bio {
+                               
+                                font-family: 'Open Sans', cursive;
+                            padding: 50px;
+    
+                                }
+
+
+
+
+
+
+            h1 {
+         text-shadow:2px 2px #F88
+            }  
+            
+            
+
+
+            #nombre {
+
+                font-size: 50px;
+                font-family: cursive;
+                }
+
+
+                h2 {
+                
+                 font-size: 30px;
+                 font-weight: 300;
+                 font-family: monospace;
+                  color:red;
+                 }
+
+                 #bio {
+                padding:20px;
+                   font-size:18;
+                   text-align:center;
+
+                }
+
+
+                .line {
+
+                    height: 6px;
+                    background-color: #000;
+                    width: 70px;
+                    margin: 8px auto;
+
+                    }
+
+
+
+                    .parallax-liner {
+
+                        display:table-cell;
+                        vertical-align: middle;
+                        }
+
+.link:hover {
+  
+  background-color:beige;
+}
+
+img:hover {
+  
+  transform: scale(0.9);
+}
+
+
+
+
+
+
+h2{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+font-size: 72px;
+  background: linear-gradient(to right, white , white , purple);
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.line {
+    height: 6px;
+    background-color: #0000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+    background-color:  rgb(26,255,0);
+background: radial-gradient(circle, rgba(26,255,0,1) 0%, rgba(0,91,255,1) 50%, rgba(251,0,0,1) 100%);
+}
+
+img {
+    transition: transform .2s;
+
+}
+
+img:hover {
+    transform: scale(0.9);
+
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+}
+
+#myCarousel {
+background-color: rgb(26,255,0);
+background: radial-gradient(circle, rgba(26,255,0,1) 0%, rgba(0,91,255,1) 50%, rgba(251,0,0,1) 100%);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+img{
+height:300px;
+}
